@@ -1,0 +1,6 @@
+{
+  "github": {
+      "token": "74604f315773afb9a315731509147ce5ce7a0a53",
+      "url": "https://api.github.com/gists"
+  }
+}
